@@ -1,0 +1,54 @@
+/* this demonstrates element selectors */
+h{
+font-family:italic;
+color:red;
+text-align:center;
+font-size:250%;
+background-color:#CD7F32;
+}
+/* this demonstrates a class selector */
+.m{
+color:#0000ff;
+font-size:250%;
+font-weight:bold;
+background-color:silver;
+
+}
+.N{
+	text-decoration:line-through;
+}
+/* this demonstrates id selector */
+#bar{
+	font-size:250%;
+	font-family:algerian;
+	color:yellow;
+	background-color:goldenrod;
+	font-weight:
+}
+/* this demonstrates the descendant seiector */
+div  {
+	color:red;
+	font-size:200%;
+
+}
+/* this demonstrates a direct descendant selector */
+div>p{
+	color:#0fa500;
+	background-color:rgb(128,128,128);
+}
+ol>li{
+	text-align:center;
+	color:#64gd0j;
+}
+/* this is an attribute selector */
+img[src]{
+	height:500;
+	width:400;
+	border-radius:30px;
+}
+#logo{
+	height:300px;
+	width:350px;
+	margin-left:10px;
+	padding:50px;
+}

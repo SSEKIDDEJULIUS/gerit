@@ -1,0 +1,37 @@
+h2{
+	color:#eeeeee;
+	font-family:sans-serif;
+	text-shadow:3px 2px red;
+	font-weight:700;
+	font-size:40px;
+	text-transform:uppercase;
+	text-decoration:underline;
+	text-align:right;
+	line-height:0.8;
+	letter-spacing: 1px; 
+}
+h1{
+	color:green;
+	text-align:left;
+	text-decoration:line-through;
+	text-transform:lowercase;
+	font-size:50px;
+	font-weight:700;
+	font-family:heletica;
+	font-variant:small-caps;
+	font-weight:700;
+}
+h3{
+	color:#a5f418;
+	font-family:verdana;
+	font-style:italic;
+	font-weight:light;
+	font-size:4em;
+	text-align:justify;
+	text-decoration:overline;
+	text-transform:capitalize;
+	line-height:o.8%;
+	letter-spacing:0.8pt;
+	word-spacing:5px;
+	text-shadow:3px 2px red;
+}

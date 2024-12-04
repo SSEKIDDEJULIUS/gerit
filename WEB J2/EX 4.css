@@ -1,0 +1,49 @@
+h1{
+
+	font-size:40pt;
+}
+#bar{height:50px;
+	background-color:rgb(59,89,152); 
+	color:#d9dfeb;
+	padding:4px;
+	}
+	#signup_button{
+	background-color:#42b72a;
+	width:70%; 
+	text-align:center;
+	padding:4em;
+	border-radius:10px;
+	float:right;
+	}
+	#bar2{
+	background-color: white;
+	width:430px;
+	height: 3vw;
+	margin: 3vh 4vw;
+	margin-top: 5cm;
+	padding:10px;
+	padding-top: 10px;
+	text-align:center;
+	font-weight:bold;
+	font-size:3rem;
+	
+	}
+	#text{
+	height:40px;
+	width:30px;
+	border-radius:4px;
+	border:solid 1px #ccc;
+	padding:4px;
+	font-size:calc(7px+2vw);
+	}
+	#button{
+	width:5vmin;
+	height:4px;
+	border-radius:4ch;
+	font-weight:bold;
+	border:none;
+	background-color:rgb(59,89,152);
+	color:white;
+	}
+	
+		
